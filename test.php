@@ -32,6 +32,10 @@
 			blablabla
 		</div>';
 
+	echo '<div class="center">
+			
+		</div>';
+
 	echo '<div class="right">
 			Texte blablabla
 			fqs dgdsg sdgsdgsd gdsg ds gsdgsd g sdg
