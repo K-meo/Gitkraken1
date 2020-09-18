@@ -22,6 +22,10 @@
 
 	echo "<p>Crédits : K-meo web</p>";
 
+	echo '<div class="top">
+			
+		</div>';
+
 	echo '<div class="left">
 			Texte blablabla<br />
 			blablabla
