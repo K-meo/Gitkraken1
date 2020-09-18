@@ -11,7 +11,7 @@
 	echo '<img src="images/hdr-102.jpg" width="450" />';
 
 	echo '<br />';
-	echo '<div>
+	echo '<div class="image">
 			<img src="images/hdr-102.jpg" width="450" />
 		</div>';
 
