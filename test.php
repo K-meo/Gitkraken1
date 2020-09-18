@@ -33,7 +33,7 @@
 		</div>';
 
 	echo '<div class="center">
-			
+			texte
 		</div>';
 
 	echo '<div class="right">
