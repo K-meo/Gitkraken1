@@ -25,6 +25,7 @@
 	echo '<div class="top">
 			<div class="top1">TOP1</div>
 			<div class="top2">TOP2</div>
+			<div class="top3">TOP3</div>
 
 			sf sdfgsd gsdg sdg
 			qsfsfdf
