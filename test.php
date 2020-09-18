@@ -12,5 +12,5 @@
 
 	echo "<p>Fin</p>";
 
-	echo "<p>Crédits : K-meo</p>";
+	echo "<p>Crédits : K-meo web</p>";
 ?>
