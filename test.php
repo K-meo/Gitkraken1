@@ -21,4 +21,6 @@
 	echo "<p>Fin</p>";
 
 	echo "<p>Crédits : K-meo web</p>";
+
+	echo '<p class="footer">Footer</p>';
 ?>
