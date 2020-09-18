@@ -29,6 +29,7 @@
 
 	echo '<div class="right">
 			Texte blablabla
+			fqs dgdsg sdgsdgsd gdsg ds gsdgsd g sdg
 		</div>';
 
 	echo '<p class="footer">
