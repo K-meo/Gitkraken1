@@ -10,6 +10,11 @@
 	echo '<br />';
 	echo '<img src="images/hdr-102.jpg" width="450" />';
 
+	echo '<br />';
+	echo '<div>
+			<img src="images/hdr-102.jpg" width="450" />
+		</div>';
+
 	echo "<p>Fin</p>";
 
 	echo "<p>Crédits : K-meo</p>";
