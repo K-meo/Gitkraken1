@@ -10,5 +10,7 @@
 	echo '<br />';
 	echo '<img src="images/hdr-102.jpg" width="450" />';
 
-	echo "<p>Fin</p>"
+	echo "<p>Fin</p>";
+
+	echo "<p>Crédits : K-meo</p>";
 ?>
