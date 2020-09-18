@@ -23,7 +23,7 @@
 	echo "<p>Crédits : K-meo web</p>";
 
 	echo '<div class="top">
-			sf sdfgsd gsdg sdg 
+			sf sdfgsd gsdg sdg
 		</div>';
 
 	echo '<div class="left">
@@ -34,6 +34,10 @@
 	echo '<div class="right">
 			Texte blablabla
 			fqs dgdsg sdgsdgsd gdsg ds gsdgsd g sdg
+		</div>';
+
+	echo '<div class="bottom">
+
 		</div>';
 
 	echo '<p class="footer">
