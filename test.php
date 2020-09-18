@@ -22,7 +22,9 @@
 
 	echo "<p>Crédits : K-meo web</p>";
 
-	echo '<div class="left"></div>';
+	echo '<div class="left">
+			Texte blablabla
+		</div>';
 
 	echo '<p class="footer">
 			<h3>Footer</h3>
