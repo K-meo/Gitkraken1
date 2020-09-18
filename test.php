@@ -1,4 +1,4 @@
 <?php
-	echo "Hello !!";
-	echo "<br /><br />Voici les images<br /><br />";
+	echo "<h1>Hello !!</h1>";
+	echo "<p>Voici les images</p>";
 ?>
