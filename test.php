@@ -14,6 +14,8 @@
 	echo '<br />';
 	echo '<div class="image">
 			<img src="images/hdr-102.jpg" width="450" />
+			<div class="titre">Champ avec coquelicot</div>
+			<div class="desc">blablabla</div>
 		</div>';
 
 	echo "<p>Fin</p>";
