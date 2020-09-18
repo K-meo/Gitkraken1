@@ -34,6 +34,7 @@
 	echo '<div class="left">
 			Texte blablabla<br />
 			blablabla
+			fsd gsdg
 		</div>';
 
 	echo '<div class="center">
